@@ -72,7 +72,9 @@ BRDZ Tech Ventures
 ---
 
 ## 📹 Demo Apps & Video
+
 [![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://link-to-demo-video)
+
 [Demo Apps](https://bxr-three.vercel.app/)
 
 ---
